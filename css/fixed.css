@@ -1,0 +1,15 @@
+.footer__item__form__name:focus,
+.footer__item__form__name:hover,
+.footer__item__form__textarea:focus,
+.footer__item__form__textarea:hover {
+    border: 2px solid #49cbcd;
+}
+.text-center {
+    text-align: center;
+}
+.accordion-js__box li {
+     display: block;
+}
+.accordion-js {
+    overflow: hidden;
+}
